@@ -29,26 +29,27 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    # - title: Professor of Theoretical Physics
+    #   institution: Institute for Advanced Study, Princeton University
+    #   year: 1933 - 1955
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    - title: Analyst developer
+      institution: <a href="https://www.sepro-group.com/" target="_blank">SEPRO Group</a>, La Roche sur Yon (Vendée, France)
+      year: 2022 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Founded in 1973, SEPRO was one of the first companies in the world to develop CNC Cartesian robots for injection molding machines.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Instructional coach in IT
+      institution: <a href="https://www.eni-ecole.fr/" target="_blank">ENI École Informatique</a> - Rennes (Ille et vilaine, France)
+      year: 2021 - 2022
+      descirption: 
+        - Coach for IT training. Online or in person from the Nantes campus.
 
     - title: Self employed developer
       institution: MLTech
@@ -59,7 +60,8 @@
     - title: Full stack developer and DevOps
       institution: <a href="https://www.cotral.fr/" target="_blank">Cotral Lab </a>, Condé-en-Normandie (Calvados, France)
       year: 2016 - 2020
-      description: Full stack and DevOps developer in a team of 11 people. Cotral is the world leader in personal custom hearing protection for professionals exposed to noise.
+      description: 
+        - Full stack and DevOps developer in a team of 11 people. Cotral is the world leader in personal custom hearing protection for professionals exposed to noise.
 
 - title: Open Source Projects
   type: time_table
