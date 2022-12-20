@@ -11,22 +11,20 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BTS Services Informatiques aux organisations SLAM
+      institution: Lycée Jean Rostand - Caen (Calvados, France)
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Object Oriented Programming
+        - Database Management Systems
+        - Operating systems and computers architectures 
+    - title: Designer-developer in work-study
+      institution: ENI École Informatique - Rennes (Ille et vilaine, France)
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Object Oriented Programming
+        - Database Management Systems
+        - Operating systems and computers architectures 
 
 - title: Experience
   type: time_table
