@@ -11,16 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: BTS Services Informatiques aux organisations SLAM
-      institution: Lycée Jean Rostand - Caen (Calvados, France)
-      year: 2014 - 2016
+    - title: Designer-developer in work-study
+      institution: ENI École Informatique - Rennes (Ille et vilaine, France)
+      year: 2016 - 2018
       description:
         - Object Oriented Programming
         - Database Management Systems
         - Operating systems and computers architectures 
-    - title: Designer-developer in work-study
-      institution: ENI École Informatique - Rennes (Ille et vilaine, France)
-      year: 2016 - 2018
+    - title: BTS Services Informatiques aux organisations SLAM
+      institution: Lycée Jean Rostand - Caen (Calvados, France)
+      year: 2014 - 2016
       description:
         - Object Oriented Programming
         - Database Management Systems
