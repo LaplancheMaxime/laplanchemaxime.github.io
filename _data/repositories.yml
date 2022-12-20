@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - LaplancheMaxime
 
 github_repos:
-  - alshedivat/al-folio
+  - LaplancheMaxime/docker-robert2
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
